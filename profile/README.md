@@ -4,7 +4,7 @@
 
 ### Our Products
 - [codeshiskhi.io](https://codeshikhi.io)
-- [echotemplate.com](https://echotemplate.com))
+- [echotemplate.com](https://echotemplate.com)
 - [templatecookie.com](https://templatecookie.com)
 
 ### Contact Us
