@@ -14,7 +14,7 @@
 
 ### Social Media
 - [Facebook](https://facebook.com/zakirsoft20)
-- [Github](https://github.io)
+- [Github](https://github.com/zakirsoft)
 - [Linkedin](https://www.linkedin.com/company/zakirsoft)
 
 
