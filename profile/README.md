@@ -16,6 +16,7 @@
 - [Facebook](https://facebook.com/zakirsoft20)
 - [Github](https://github.com/zakirsoft)
 - [Linkedin](https://www.linkedin.com/company/zakirsoft)
+- [Youtube](https://www.youtube.com/channel/UCF8BsDd4WDu5VVUpmcRTPpA)
 
 
 <!--
