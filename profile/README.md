@@ -1,23 +1,25 @@
-## Hi there 👋
+## Hello from Zakirsoft Team 👋
 
 💻 A Software development company providing quality services. As company we develop innovatives website & software solutions. We are proud of what we do.
 
-### Our Products
-- [codeshiskhi.io](https://codeshikhi.io)
-- [echotemplate.com](https://echotemplate.com)
-- [templatecookie.com](https://templatecookie.com)
-
-### Contact Us
-- [Google Map](https://g.page/zakirsoft)
-- [Zakirsoft](https://zakirsoft.com)
+| Our Products      | Contact Us |
+| ----------- | ----------- |
+| [templatecookie.com](https://templatecookie.com) | [Google Page](https://g.page/zakirsoft) |
+| [codeshiskhi.io](https://codeshikhi.io)      | [Google Map](https://g.page/zakirsoft)       |
+| [echotemplate.com](https://echotemplate.com)   | [Zakirsoft](https://zakirsoft.com)        |
 
 
 ### Social Media
 - [Facebook](https://facebook.com/zakirsoft20)
+- [Facebook Group](https://www.facebook.com/groups/zakirsoft)
+- [Instagram](https://www.instagram.com/zakirsoft)
+- [Pinterest](https://www.pinterest.com/zakirsoft)
 - [Github](https://github.com/zakirsoft)
 - [Linkedin](https://www.linkedin.com/company/zakirsoft)
 - [Youtube](https://www.youtube.com/channel/UCF8BsDd4WDu5VVUpmcRTPpA)
-
+- [Dribbble](https://dribbble.com/zakirsoft)
+- [Behance](https://www.behance.net/zakirsoft)
+- [Behance Team Account](https://www.behance.net/zakirsoft-team)
 
 <!--
 **Here are some ideas to get you started:**
