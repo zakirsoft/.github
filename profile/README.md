@@ -16,7 +16,7 @@
 | Name | Link |
 | [Facebook](https://facebook.com/zakirsoft20) | https://facebook.com/zakirsoft20 |
 | [Facebook Group](https://www.facebook.com/groups/zakirsoft) | https://www.facebook.com/groups/zakirsoft |
-| [Instagram](https://www.instagram.com/zakirsoft) | https://www.instagram.com/zakirsoft |
+| [Instagram](https://www.instagram.com/zakirsoft) | https://www.instagram.com/zakirsoftbd |
 | [Pinterest](https://www.pinterest.com/zakirsoft) | https://www.pinterest.com/zakirsoft |
 | [Github](https://github.com/zakirsoft) | https://github.com/zakirsoft |
 | [Linkedin](https://www.linkedin.com/company/zakirsoft) | https://www.linkedin.com/company/zakirsoft |
